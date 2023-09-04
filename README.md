@@ -1,27 +1,31 @@
-<h1 align="center">Hi 👋, I'm Alamin</h1>
-<h3 align="center">Web developer from Bangladesh</h3>
+### Hi there 👋, Al amin 
+#### Web Developer 
+![Web Developer ](https://github.com/Alamin32a/Alamin32a/blob/main/Purple%20Gradient%20Digital%20Marketing%20LinkedIn%20Banner(1).png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alamin&label=Profile%20views&color=0e75b6&style=flat" alt="alamin" /> </p>
+Hey , I am Al amin . we love to learn new technologies and client satisfaction in my frist priority.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alamin" alt="alamin" /></a> </p>
+Skills:  HTML / CSS/ C/ C++
 
-- 🌱 I’m currently learning **web development**
+- 🔭 I’m currently working on programming shikhbo  
+- 🌱 I’m currently learning web development  
+- 📫 How to reach me: alamin50139@gmail.com 
+- ⚡ Fun fact: i think i,m  funny 
 
-- 💬 Ask me about **react**
 
-- 📫 How to reach me **alamin501393@gmail.com**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Alamin32a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/MD Al amin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/MD Al amin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Al Amin Mia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Al Amin Mia/)  
 
-- ⚡ Fun fact **in think i am funny**
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md al amin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md al amin" height="30" width="40" /></a>
-<a href="https://fb.com/al amin maia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="al amin maia" height="30" width="40" /></a>
-<a href="https://instagram.com/al amin mai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="al amin mai" height="30" width="40" /></a>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Alamin32a)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alamin32a)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alamin&show_icons=true&locale=en&layout=compact" alt="alamin" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alamin32a&show_icons=true&count_private=true)  
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Alamin32a)  
+
+![GitHub metrics](https://metrics.lecoq.io/Alamin32a)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Alamin32a)  
+
+![Profile views](https://gpvc.arturio.dev/Alamin32a)  
