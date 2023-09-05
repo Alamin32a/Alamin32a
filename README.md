@@ -1,4 +1,4 @@
-### Hi there 👋, Al amin 
+### Hi there 👋, I am  Al amin 
 #### Web Developer 
 ![Web Developer ](https://github.com/Alamin32a/Alamin32a/blob/main/Purple%20Gradient%20Digital%20Marketing%20LinkedIn%20Banner(1).png)
 
