@@ -22,7 +22,7 @@
 
 - 📫 How to reach me: **alamin501393@gmail.com**
 
-- 📄 Know more about my experience: [My Resume](https://docs.google.com/document/d/1BZSYln2VxzkcUtD0W8mrKZ0Z1HJD606klKlPQ09u62Q/edit?usp=sharing)
+- 📄 Know more about my experience: [My Resume](https://docs.google.com/document/d/1gOo2_b2Jbrrh36l6pjyMHXrUb4508-D2/edit?usp=sharing&ouid=107397518288795417962&rtpof=true&sd=true)
 
 - ⚡ Fun fact: **Boom and Cool 😎**
 
